@@ -61,3 +61,20 @@ h3 {
     margin-right: 6%;
     border-radius: 20px;
 }
+
+#stack-developer {
+    border-left: 7px solid;
+    border-image: linear-gradient(blue, cyan);
+    border-image-slice: 1;
+}
+
+#baby-developer {
+    border-left: 7px solid;
+    border-image: linear-gradient(orange, tomato);
+    border-image-slice: 1;
+}
+
+footer p {
+    text-align: center;
+    margin-bottom: 2%;
+}
