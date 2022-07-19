@@ -11,8 +11,9 @@ h3 {
     color: brown;
 }
 
-section {
+.flexible {
     display: flex;
+    margin-bottom: 100px;
 }
 
 .top-banner {
@@ -35,4 +36,27 @@ section {
     background-color: blue;
     padding: 10px 40px;
     border-radius: 5px;
+}
+
+.dream-big {
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.flexible-container {
+    display: flex;
+}
+
+.experience-area {
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    margin-bottom: 5%;
+}
+
+.experience-item {
+    box-shadow: 10px 10px 30px gray;
+    margin-left: 6%;
+    margin-right: 6%;
+    border-radius: 20px;
 }
