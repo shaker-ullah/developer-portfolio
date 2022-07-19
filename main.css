@@ -1,0 +1,38 @@
+body {
+    font-family: 'Ibarra Real Nova', serif;
+    margin: 0;
+}
+
+span {
+    color: rgb(223, 170, 56);
+}
+
+h3 {
+    color: brown;
+}
+
+section {
+    display: flex;
+}
+
+.top-banner {
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+
+.half-width {
+    width: 50%;
+    padding: 5%;
+}
+
+.half-width img {
+    width: 80%;
+}
+
+.link-button {
+    color: aliceblue;
+    text-decoration: none;
+    background-color: blue;
+    padding: 10px 40px;
+    border-radius: 5px;
+}
