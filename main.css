@@ -52,10 +52,11 @@ h3 {
     background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
     margin-bottom: 5%;
+    background-position: left;
 }
 
 .experience-item {
-    box-shadow: 10px 10px 30px gray;
+    box-shadow: 10px 10px 15px gray;
     margin-left: 6%;
     margin-right: 6%;
     border-radius: 20px;
